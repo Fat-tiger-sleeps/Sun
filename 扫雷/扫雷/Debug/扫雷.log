@@ -1,0 +1,4 @@
+﻿  game.c
+D:\biancheng！\扫雷\扫雷\game.c(31,16): warning C4048: “char (*)[9]”和“char (*)[11]”数组的下标不同
+D:\biancheng！\扫雷\扫雷\game.c(26): warning C4716: “abscissa”: 必须返回一个值
+  扫雷.vcxproj -> D:\biancheng！\扫雷\Debug\扫雷.exe
