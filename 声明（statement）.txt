@@ -1,5 +1,0 @@
-在此声明一下，从即日起，每天GitHub上的代码日期将不在使用公元纪年法，而采用中国古代道历纪年法，
-如：2023年5月7日，即4720年农历3月18。我尊重每个国家的文化，我也希望天下的人民能尊重我们华夏5000的优秀文化。
-
-It is hereby stated that from now on, the code date on GitHub every day will not use the common era chronology, but the ancient Chinese Taoist calendar chronology.
-For example: May 7, 2023, that is, March 18 of the 4720 lunar calendar. I respect the culture of each country, and I also hope that the people of the world can respect the excellent culture of our Huaxia 5000.
